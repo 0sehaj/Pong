@@ -1,5 +1,5 @@
 #Pong Game
-#author: Sehajleen Kaur
+#author: Sehaj
 
 from turtle import *
 from random import randint, random
